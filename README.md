@@ -15,6 +15,7 @@ What I love building most is premium looking web applications, Apple inspired an
 | [MAC Exam Hub](https://github.com/ItsRayZer/MAC-Exam-Hub) | Exam resources hub for students of the college |
 | [mac-data-sync](https://github.com/ItsRayZer/mac-data-sync) | Data sync tooling behind the MacHub ecosystem |
 | [RayZer Portfolio](https://github.com/ItsRayZer/RayZer-portfolio) | My personal portfolio website |
+| [Axo Chat](https://github.com/ItsRayZer/axo-ai) | Drop-in AI chatbot template for any website: works with no API key, or plug in your own OpenAI/Gemini key, fully customizable, MIT licensed |
 
 ## Tech I work with
 
